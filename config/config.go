@@ -1,7 +1,7 @@
 package config
 
 import (
-	"github.com/Kevin005/nsq-std-foundation/mock"
+	"github.com/klbud/nsq-std-foundation/mock"
 )
 
 var (

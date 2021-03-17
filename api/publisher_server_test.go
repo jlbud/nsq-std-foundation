@@ -5,8 +5,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Kevin005/nsq-std-foundation/message"
-	"github.com/Kevin005/nsq-std-foundation/mock"
+	"github.com/klbud/nsq-std-foundation/message"
+	"github.com/klbud/nsq-std-foundation/mock"
 )
 
 func TestPublisherServer_Publish(t *testing.T) {

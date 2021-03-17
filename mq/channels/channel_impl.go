@@ -3,9 +3,9 @@ package channels
 import (
 	"errors"
 
-	"github.com/Kevin005/nsq-std-foundation/config"
-	"github.com/Kevin005/nsq-std-foundation/mq"
-	"github.com/Kevin005/nsq-std-foundation/util/http"
+	"github.com/klbud/nsq-std-foundation/config"
+	"github.com/klbud/nsq-std-foundation/mq"
+	"github.com/klbud/nsq-std-foundation/util/http"
 )
 
 type ChannelImpl struct{}

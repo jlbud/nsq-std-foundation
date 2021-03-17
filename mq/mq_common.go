@@ -3,7 +3,7 @@ package mq
 import (
 	"strconv"
 
-	"github.com/Kevin005/nsq-std-foundation/config"
+	"github.com/klbud/nsq-std-foundation/config"
 	"github.com/labstack/gommon/log"
 )
 

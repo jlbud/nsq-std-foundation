@@ -1,4 +1,6 @@
-module github.com/Kevin005/nsq-std-foundation
+module github.com/klbud/nsq-std-foundation
+
+go 1.15
 
 require (
 	github.com/davecgh/go-spew v1.1.1 // indirect

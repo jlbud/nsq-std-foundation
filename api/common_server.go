@@ -4,8 +4,8 @@ import (
 	"encoding/json"
 	"log"
 
-	"github.com/Kevin005/nsq-std-foundation/mq/channels"
-	"github.com/Kevin005/nsq-std-foundation/mq/topics"
+	"github.com/klbud/nsq-std-foundation/mq/channels"
+	"github.com/klbud/nsq-std-foundation/mq/topics"
 )
 
 func NewCommonServer() CommonServerI {

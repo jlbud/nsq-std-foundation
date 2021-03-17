@@ -6,8 +6,8 @@ import (
 	"os"
 	"time"
 
-	"github.com/Kevin005/nsq-std-foundation/config"
-	"github.com/Kevin005/nsq-std-foundation/message"
+	"github.com/klbud/nsq-std-foundation/config"
+	"github.com/klbud/nsq-std-foundation/message"
 	"github.com/nsqio/go-nsq"
 )
 

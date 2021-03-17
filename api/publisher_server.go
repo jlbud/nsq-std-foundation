@@ -3,8 +3,8 @@ package nsqkit
 import (
 	"fmt"
 
-	"github.com/Kevin005/nsq-std-foundation/message"
-	"github.com/Kevin005/nsq-std-foundation/publisher"
+	"github.com/klbud/nsq-std-foundation/message"
+	"github.com/klbud/nsq-std-foundation/publisher"
 )
 
 type PublisherServer struct {

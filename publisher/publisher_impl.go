@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/Kevin005/nsq-std-foundation/mq"
+	"github.com/klbud/nsq-std-foundation/mq"
 	"github.com/nsqio/go-nsq"
 )
 

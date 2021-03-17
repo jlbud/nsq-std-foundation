@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"errors"
 
-	"github.com/Kevin005/nsq-std-foundation/util/http"
+	"github.com/klbud/nsq-std-foundation/util/http"
 )
 
 type Lookupd struct {

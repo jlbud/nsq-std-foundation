@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/Kevin005/nsq-std-foundation/consumer"
-	"github.com/Kevin005/nsq-std-foundation/message"
+	"github.com/klbud/nsq-std-foundation/consumer"
+	"github.com/klbud/nsq-std-foundation/message"
 	"github.com/pkg/errors"
 )
 

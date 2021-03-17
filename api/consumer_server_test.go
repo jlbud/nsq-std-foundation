@@ -7,7 +7,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Kevin005/nsq-std-foundation/message"
+	"github.com/klbud/nsq-std-foundation/message"
 	"github.com/pkg/errors"
 )
 
