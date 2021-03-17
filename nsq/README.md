@@ -70,5 +70,5 @@ type CommonServerI interface {
 | nsqadmin | http | 4171 |
 
 ### 项目文档
-* 调研文档 http://192.168.1.150:8090/pages/viewpage.action?pageId=47579330
-* 部署文档 http://192.168.1.150:8090/pages/viewpage.action?pageId=47579326
+* 调研文档
+* 部署文档
